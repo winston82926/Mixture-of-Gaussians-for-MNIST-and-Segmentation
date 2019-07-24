@@ -20,5 +20,4 @@ I built GMMs(Gaussian Mixture Models) and tested the performance by MNIST data. 
 <img src="Segmentation/Data/221272.jpg" width="80%"/>|<img src="Segmentation/Data/221272.jpg_myGmm_k=10.png" width="80%"/>|<img src="Segmentation/Data/CB_221272.png" width="80%"/>
 :----------------------------------------:|:----------------------------------------:|:----------------------------------------:
 <img src="Segmentation/Data/test.jpg" width="80%"/>|<img src="Segmentation/Data/test.jpg_myGmm_k=10.png" width="80%"/>|<img src="Segmentation/Data/CB_test.png" width="80%"/>
-:----------------------------------------:|:----------------------------------------:|:----------------------------------------:
 Original|K=10|Colormap ($\mu_k$)
