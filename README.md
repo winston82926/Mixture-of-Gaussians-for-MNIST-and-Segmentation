@@ -7,4 +7,16 @@ I built GMMs(Gaussian Mixture Models) and tested the performance by MNIST data. 
 
 |<img src="MNIST/E_k.png" width="80%">|
 |:--------------------------------------------:|
-|Mixed signal|
+|Classification error rate for different value of $K$|
+
+
+|<img src="MNIST/mu_sigma.png" width="80%">|
+|:--------------------------------------------:|
+|Visualization of $\mu_k, \Sigma_k$ for each GMM(digit)|
+
+
+## Segmentation
+
+<img src="Segmentation/Data/221272.jpg" width="80%"/>|<img src="Segmentation/Data/221272.jpg_myGmm_k=10.png" width="80%"/>|<img src="Segmentation/Data/CB_221272.png" width="80%"/>
+:----------------------------------------:|:----------------------------------------:|:----------------------------------------:
+Original|$K=10$|Colormap ($\mu_k$)
